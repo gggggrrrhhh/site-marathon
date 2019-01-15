@@ -1,2 +1,2 @@
 # site-marathon
-(https://habr.com/ru/post/346010/)[Полный инстракш по вебу]
+[Полный инстракш по вебу](https://habr.com/ru/post/346010/)
